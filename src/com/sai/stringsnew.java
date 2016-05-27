@@ -10,6 +10,8 @@ public class stringsnew {
 		String look = text + book;
 		System.out.println(look);
 		System.out.println(myint);
+		
+		System.out.println("Hello World!");
 	}
 
 }
